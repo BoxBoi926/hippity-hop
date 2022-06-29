@@ -1,4 +1,4 @@
-# Calculator Tinz
+# Father's Pizza Place
 
 ## Project Description
-Essentially wolframalpha
+Yes it is a knock off
